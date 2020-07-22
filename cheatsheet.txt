@@ -1,0 +1,6 @@
+- Use this picture as a profile picture:
+https://avatars1.githubusercontent.com/u/37574368?v=4
+
+- Cut/Paste the below code for Font Awesome:
+<script src="https://kit.fontawesome.com/3926274332.js" crossorigin="anonymous"></script>
+
